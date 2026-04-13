@@ -22,16 +22,15 @@ This project allows users to perform basic banking operations like checking bala
 ## 🖼️ Screenshots
 
 ### 🔐 Login Screen
+<img width="498" height="267" alt="image" src="https://github.com/user-attachments/assets/4607da37-2c06-4e0c-a97e-4d4fc4536789" />
 
-![Login](https://via.placeholder.com/600x300?text=ATM+Login+Screen)
 
 ### 💰 Transaction Menu
 
-![Menu](https://via.placeholder.com/600x300?text=ATM+Menu)
+<img width="423" height="271" alt="image" src="https://github.com/user-attachments/assets/c007868d-c7bc-42bf-990b-1e6a72ea11d0" />
 
-### 🏦 Operations
 
-![Operations](https://via.placeholder.com/600x300?text=Withdraw+Deposit+Balance)
+
 
 > 📸 Tip: Tum apne real screenshots add karke in links ko replace kar sakte ho.
 
