@@ -42,7 +42,7 @@ This project allows users to perform basic banking operations like checking bala
 
 ```
 📁ATM_Project/ │ ├── main.py # Entry point
-├── atm.py # Main ATM logic
+├── atm2.py # Main ATM logic
 └── README.md # Documentation
 ```
 
